@@ -1,1 +1,1 @@
-Meu primeiro arquivo no git (alterado e atualizado)
+Meu primeiro arquivo no git
